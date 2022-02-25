@@ -1,3 +1,9 @@
+# import pygsheets
+import pandas as pd
+
+class PyReporter:
+    def __init__(self):
+        pass
 
 
 def main():
