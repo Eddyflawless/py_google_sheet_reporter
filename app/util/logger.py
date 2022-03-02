@@ -20,9 +20,6 @@ class Logger:
         cls._logging = logging
         return cls._instance
 
-    def getLogger(cls):
-        return cls._logging
-
 
 logger = Logger()
 
