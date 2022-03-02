@@ -1,5 +1,11 @@
 # py_google_sheet_reporter
 
+Pre-requisites to run this project
+Python 3.x installed on the system
+pandas and mysql library installed (can be installed easily using pip)
+
+SMTP mode setup on sender's mailing server
+
 # python in use [Python 3]
 /usr/local/bin/python3
 
@@ -21,3 +27,6 @@ deactivate
 # Update requirements file
 ## use this to rewrite requirement file whenever we update package
 pip freeze > requirements.txt
+
+#note
+dont forget to add the account serice account email to the spreadhseet

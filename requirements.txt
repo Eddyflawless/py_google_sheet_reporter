@@ -1,5 +1,6 @@
 mysql-connector-python
 requests
 python-dotenv
+pandas
 google-api-python-client
 pygsheets
