@@ -3,6 +3,7 @@ import pandas as pd
 import datetime
 import os
 from app.util import email
+# from app.util import sns
 
 SPREADHSHEET="py-sheet-demo"
 EXPORT_DIR="exports"

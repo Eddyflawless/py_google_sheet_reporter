@@ -4,3 +4,4 @@ python-dotenv
 pandas
 google-api-python-client
 pygsheets
+botos
